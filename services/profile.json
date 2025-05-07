@@ -1,0 +1,66 @@
+{
+  "name": "Matheus Ferraz",
+  "photo": "https://avatars.githubusercontent.com/u/35972421?s=400&u=bf9494e0a7fc8d3ae1e3ad3f77ea68eecf8c51fe&v=4",
+  "job": "Dev Full Stack na Empresa THINK A.M.",
+  "location": "Presidente Prudente - SP",
+  "phone": "(18) 98132-3888",
+  "email": "fferrazmatheus@outlook.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Angular",
+        "logo": "/src/assets/img/angular.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "/src/assets/img/js.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "/src/assets/img/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "/src/assets/img/css.png"
+      },
+      {
+        "name": "C#",
+        "logo": "/src/assets/img/csharp.png"
+      }
+    ],
+    "softSkills": [
+      "Autodidata",
+      "Comunicativo",
+      "Organizado"
+    ]
+  },
+  "languages": [
+    "Português BR (Nativo)",
+    "Inglês (Básico)",
+    "Espanhol (Básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/matheussferraz/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/matheussferraz/js-developer-portfolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedor de software / THINK. A.M",
+      "period": "Março de 2025 - até o momento",
+      "description": "É um prazer trabalhar construindo inovações de mercado."
+    },
+    {
+      "name": "Analista de Suporte / Expert Certificações L.T.D.A.",
+      "period": "Abril de 2019 - Fevereiro de 2020",
+      "description": "Suporte técnico, infraestrutura, redes, banco de dados, atendimento e soluções de TI."
+    }
+  ]
+}

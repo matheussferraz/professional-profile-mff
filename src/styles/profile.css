@@ -1,0 +1,102 @@
+@import url(global.css);
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+.main {
+    border: solid 2px orangered;
+    border-radius: .5rem;
+    padding: 1rem;
+    background-color: coral;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0 2rem 0 2rem;
+    gap: 5px;
+}
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+    padding: .5rem;
+}
+
+.footer img {
+    max-width: 65px;
+    min-width: 65px;
+}
+
+img {
+    max-width: 35px;
+    min-width: 35px;
+}
+
+li {
+    list-style: none;
+    padding-left: .5rem;
+}
+
+#containerSkills {
+    display: flex;
+    justify-content: space-between;
+}
+
+#containerSkills #techTools #listImageTech { 
+    display: flex;
+    align-items: flex-end;
+    gap: 2px;
+}
+
+#profileDetails {
+    padding: .5rem;
+}
+
+#profileDetails section {
+    border-style: none;
+    border-radius: 0.5rem;
+    margin-bottom: 0.25rem;
+    padding: .75rem;
+    background-color: orangered;
+}
+
+#nameProfile { 
+    font-size: 25px;
+    padding-bottom: 1rem;
+}
+
+#imageProfile img{
+    width: max-content;
+    max-width: 7.5rem;
+    border: solid 2px orangered;
+    border-radius: 50%;
+}
+
+#listLanguages {
+    display: flex;
+    flex-direction: row;
+    gap: .75rem;
+}
+
+#listImageTech li {
+    padding-top: .5rem;
+}
+  
+#listLanguages li {
+    font-size: 12px;
+}
+
+#listExperiences li {   
+    font-size: 12px;
+}
+
+#listPortfolio li {   
+    font-size: 12px;
+}
